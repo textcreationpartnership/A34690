@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The result of a synod at Cambridge in New-England, anno 1646 concerning the [brace] power of magistrates in matters of the first table, nature &amp; power of synods, and other matters thereunto belonging.</title>
+         </titleStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34690</idno><idno type="EEBO-CITATION">12713698</idno>
+  <idno type="VID">66131</idno>
+  <idno type="EEBO-PROQUEST">2240973852</idno>
+  
+            <idno type="STC">Wing C6453</idno>
+            <idno type="STC">ESTC R37665</idno>
+            <idno type="OCLC">12713698</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A34690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 684:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The result of a synod at Cambridge in New-England, anno 1646 concerning the [brace] power of magistrates in matters of the first table, nature &amp; power of synods, and other matters thereunto belonging.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+                  <author>Congregational churches in Massachusetts. Cambridge Synod.</author>
+               </titleStmt>
+               <extent>[2], 75, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for John Allen and Francis Eglesfield ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Erroneously attributed to John Cotton. Cf. Cotton's The covenant of grace, 1655, p. [17] of first prelim. count.</note>
+                  <note>Imperfect: print show-through with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Congregational churches --  Massachusetts --  Government.</term>
+               <term type="topical_term">Councils and synods --  Massachusetts --  Cambridge.</term>
+               <term type="topical_term">Church and state --  Massachusetts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66131:1"/>
+            <pb facs="tcp:66131:1"/>
+            <p>
+               <hi>The</hi> RESULT <hi>OF A</hi> SYNOD AT CAMBRIDGE <hi>IN New-England,</hi> Anno. 1646.</p>
+            <p>CONCERNING The
+<list>
+                  <item>Power of Magistrates in mat<g ref="char:EOLhyphen"/>ters of the First Table.</item>
+                  <item>Nature &amp; Power of Synods; and other matters thereun<g ref="char:EOLhyphen"/>to belonging.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>M. S.</hi> for <hi>John Allen</hi> and <hi>Francis Eglesfield</hi> in <hi>Pauls</hi> Church-yard. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:66131:2"/>
+            <pb n="1" facs="tcp:66131:2"/>
+            <head>The Result of the Disputati<g ref="char:EOLhyphen"/>ons of the <hi>Synod,</hi> or <hi>Assembly,</hi> at <hi>Cambridge</hi> in <hi>New-England,</hi> Begun upon the first day of the 7<seg rend="sup">th</seg> Month, <hi>An. Dom.</hi> 1646. <hi>About the power of the Civill Magi<g ref="char:EOLhyphen"/>strate in matters of the first Table; and also about the grounds of Synods, with their power, and the power of calling of them.</hi>
+            </head>
+            <byline>Being drawn up by some of the Mem<g ref="char:EOLhyphen"/>bers of the Assembly, deputed there<g ref="char:EOLhyphen"/>unto, and being distinctly read in the Assembly, it was agreed thus farre onely, That they should be commended un<g ref="char:EOLhyphen"/>to more serious consideration against the next Meeting.</byline>
+            <p>
+               <seg rend="decorInit">T</seg>Ouching the Question of the Civill Magistrate in matters of Religion, we shall crave leave to narrow and limit the state of it in the mannner of the Proposall of it, and shall therefore propound it thus.</p>
+            <p>
+               <hi>Quest.</hi> Whether the Civil Magistrate in matters of Religion, or of the first
+<pb n="2" facs="tcp:66131:3"/> Table, hath power civilly to com<g ref="char:EOLhyphen"/>mand or forbid things respecting the outward man, which are clearly com<g ref="char:EOLhyphen"/>manded and forbidden in the word, and to inflict sutable punishments, ac<g ref="char:EOLhyphen"/>cording to the nature of the transgres<g ref="char:EOLhyphen"/>sions against the same, and all this with reference to godly peace?</p>
+            <p>
+               <hi>Answ.</hi> The want of a right stating of this Question, touching the Civil Ma<g ref="char:EOLhyphen"/>gistrates power in matters of Religion, hath occasioned a world of Errours, tending to infringe the just power of the Magistrate, we shall therefore ex<g ref="char:EOLhyphen"/>plaine the termes of the Question, and then confirme it in the Affirmative.</p>
+            <p>By <hi>[Commanding, Forbidding, and Pu<g ref="char:EOLhyphen"/>nishing]</hi> we meane the coercive power of the Magistrate, which is seen in such acts. By <hi>[Matters of Religion command<g ref="char:EOLhyphen"/>ed or forbidden in the word, respecting the outward man]</hi> we understand indefinite<g ref="char:EOLhyphen"/>ly, whether those of Doctrine or Disci<g ref="char:EOLhyphen"/>pline, of faith or practice; his power is not limited to such matters of Reli<g ref="char:EOLhyphen"/>gion onely, which are against the light of Nature, or against the Law of Nati<g ref="char:EOLhyphen"/>on, or against the fundamentals of Religion; all these are matters of Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="3" facs="tcp:66131:3"/> which may be expressed by the outward man, but not onely these; therefore we say not barely thus <hi>[In matters of the first Table]</hi> but joyn there<g ref="char:EOLhyphen"/>with <hi>[In matters of Religion]</hi> that all ambiguity may be avoided, and that it may be understood as well of matters which are purely Evangelicall, so far as expressed by the outward man, as well as of other things. And we say, <hi>[Commanded or forbidden in the word]</hi> meaning of the whole word, both of the Old and New Testament; excepti<g ref="char:EOLhyphen"/>on being onely made of such things which were meerly Ceremoniall, or o<g ref="char:EOLhyphen"/>therwise peculiar to the <hi>Jewish</hi> polity, and cleered to be abolished in the New Testament: By which limitation of the Magistrates power to <hi>things commanded or forbidden in the word,</hi> we exclude any power of the Magistrate, either in com<g ref="char:EOLhyphen"/>manding any new thing, whether in doctrine or discipline, or any thing in matters of Religion, which is beside or against the word, or in forbidding any thing which is according to the word.</p>
+            <p n="1">1 Hence he is not to mould up and impose what Erastian for me of Church polity he pleaseth because if there be
+<pb n="4" facs="tcp:66131:4"/> but one form commanded now of God, he cannot therefore command what forme he will.</p>
+            <p n="2">2 Hence he is not to force all per<g ref="char:EOLhyphen"/>sons into the Church, or to the parti<g ref="char:EOLhyphen"/>cipation of the seals; because he is not thus commanded.</p>
+            <p n="3">3 Hence he is not to limit to things indifferent, which are neither com<g ref="char:EOLhyphen"/>manded, nor forbidden in the word, without apparent expediency or inex<g ref="char:EOLhyphen"/>pediency of attending the same. By that expression <hi>[cleerly] commanded or for<g ref="char:EOLhyphen"/>bidden in the word,</hi> we understand that which is cleer, either by express words, or necessary Consequence from the Scripture; and we say <hi>cleerly command<g ref="char:EOLhyphen"/>ed or forbidden in the word.</hi> Not simply that which the Magistrate or others think to be cleerly commanded or for<g ref="char:EOLhyphen"/>bidden; for they may thinke things commanded, to be forbidden, and things forbidden, to be command<g ref="char:EOLhyphen"/>ed; but that which is in it selfe in such sort cleer in the word, <hi>de jure,</hi> the Ci<g ref="char:EOLhyphen"/>vil Magistrate in these days since Christs ascension, may and ought to command and forbid such things so cleared in the word, albeit <hi>de facto,</hi> oft-times he doe
+<pb n="5" facs="tcp:66131:4"/> not. <hi>[Sutably inflicting punishments ac<g ref="char:EOLhyphen"/>cording to the nature of the transgressions]</hi> This clause needeth not much explica<g ref="char:EOLhyphen"/>tion, being so plaine of it selfe; some things commanded and forbidden in the Law of God, are of a smaller nature in respect of the Law of man, and in this respect 'tis true which is often said, that <hi>De minimis non curat lex, i. e.</hi> Mans Law looks not after small matters, but other things commanded or forbidden in Gods Law, are momentous, and of a higher nature, and though small in themselves, yet weighty in the conse<g ref="char:EOLhyphen"/>quence or circumstance. And in this case if he inflict a slight paper punish<g ref="char:EOLhyphen"/>ment when the offence is of an high nature; or contrariwise, when he in<g ref="char:EOLhyphen"/>flicts that which is equivalent to a ca<g ref="char:EOLhyphen"/>pitall punishment, when the offence is of an inferiour nature, he doth not pu<g ref="char:EOLhyphen"/>nish sutably. There are sundry rules in the word in matters of this sort, as touching the punishment of Blasphe<g ref="char:EOLhyphen"/>my, Idolatry, Heresie, prophanation of the Lords day, and sundry other like matters of Religion, according to w<seg rend="sup">ch</seg> Magistrates of old have held, and others now may observe proportions, in ma<g ref="char:EOLhyphen"/>king
+<pb n="6" facs="tcp:66131:5"/> other particular Laws in matters of Religion, with sanctions of punish<g ref="char:EOLhyphen"/>ments, and inflicting the same, they in<g ref="char:EOLhyphen"/>flict sutable punishments: Onely let it be here remembred, that though we grant the Civill Magistrate his power thus to command, forbid and punish in matters of R<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion, <hi>cleerly revealed in the word,</hi> yet it is one thing <hi>what</hi> he may and must doe, and another thing <hi>when</hi> and <hi>how</hi> he must exercise his pow<g ref="char:EOLhyphen"/>er to all persons under his Jurisdicti<g ref="char:EOLhyphen"/>on; for some such persons may not be at all acquainted with the true God, or have any knowledge of Christ, or of the word, but as yet are <hi>Pagans:</hi> N<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w touching such, the Magistrate should take care, that the b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st means be seaso<g ref="char:EOLhyphen"/>nably and wisely used with them, ac<g ref="char:EOLhyphen"/>cording to their capacities, to bring them first to the knowledge of the true God, and of his word, and to convince them of the falshood &amp; vanity of their gods, whom they worship, <hi>&amp;c.</hi> and afterwards, as there is cause, to put forth acts of his coercive power to<g ref="char:EOLhyphen"/>wards them, as Scripture-rules and ex<g ref="char:EOLhyphen"/>amples will allow others, though the<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are Christians, yet such as are not clear<g ref="char:EOLhyphen"/>ly
+<pb n="7" facs="tcp:66131:5"/> instructed or inlightned in matters clearly set down in the Word; in this case the civill Magistrate is to informe and convince, and not to proceed sud<g ref="char:EOLhyphen"/>denly till all just means are used to leave him convinced, of which it is more meet for the Magistrate than for the offending person to judge, who it may be will never say he is convinced. We live in times wherein many men are perversly carried, and will regard no reason, but goe full against the light of it, and of common sense too, some<g ref="char:EOLhyphen"/>times rather than confesse the truth when convinced of it; such an obstinate foole is not to be answered according to his folly by any further reasonings, <hi>Pro.</hi> 26.4. A whip is fitter (sayth <hi>So<g ref="char:EOLhyphen"/>lomon</hi>) for such a backe. By this, which hath been already spoken touching the acts and rule of the Magistrates coer<g ref="char:EOLhyphen"/>cive power in matters of Religion, the impertinency and invalidity of many objections against this his power will appear, at,</p>
+            <p n="1">1. That thereby the civill Magistrate is made the Churches King, and Law<g ref="char:EOLhyphen"/>giver; which would be true if he might command or forbid any thing, which
+<pb n="8" facs="tcp:66131:6"/> was not first commanded or forbidden of the Lord, who is the Churches Law<g ref="char:EOLhyphen"/>giver, which we say be may not.</p>
+            <p n="2">2. That thereby he is made to have dominion over mens faith; when he doth no more by our position but presse them to that faith, which he, that hath indeed dominion over the same, hath prescribed.</p>
+            <p n="3">3. That thereby tyranny is exerci<g ref="char:EOLhyphen"/>sed over mens tender consciences, and true liberty of conscience is infringed; when as he <hi>de jure</hi> commands nothing but that which, if men have any tender<g ref="char:EOLhyphen"/>nesse of conscience, they are bound in conscience to submit thereto, and in faithfull submitting to which is truest liberty of conscience, conscience being never in a truer or better estate of li<g ref="char:EOLhyphen"/>berty here on earth, than when most ingaged to walke according to Gods Commandements.</p>
+            <p n="4">4. That thereby Christians become servants of men; when the Magistrate only is to enjoyne what his Master and theirs hath commanded, or to forbid the contrary, and consequently in sub<g ref="char:EOLhyphen"/>mitting thereto are but servants to Christ in man.</p>
+            <p n="5">
+               <pb n="9" facs="tcp:66131:6"/>5. That thereby men are made hy<g ref="char:EOLhyphen"/>pocrites and time-servers; as if to com<g ref="char:EOLhyphen"/>mand men to walke according to the Word, and to forbid the contrary, were to make men so contrary to the Word as are time-servers and hypocrites.</p>
+            <p n="6">6. That thereby a sluce is opened to let in all manner of false religions, and corrupt opinions into the Church: supposing the Magistrate be of any false religion, or corrupt in his judgement; yea, that were the way to set up a Pope in a Christian Common-wealth, for Religion must turne as he turns. When as the question is touching the Magi<g ref="char:EOLhyphen"/>strates power of commanding or for<g ref="char:EOLhyphen"/>bidding not what he in a Popelike way shall please, or what his own spirit shall like best, but what God hath comman<g ref="char:EOLhyphen"/>ded or forbidden in the Word; and the position subjecteth him to the Word as to the supream Law, and doth not set him up Popelike above the Scriptures, or allow him to make his sense of scrip<g ref="char:EOLhyphen"/>ture, to be Scripture, or to make hu<g ref="char:EOLhyphen"/>mane traditionall Cannons to be as much of force as Scripture to bind mens consciences &amp;c. but the position rather condemneth any such power as
+<pb n="10" facs="tcp:66131:7"/> irregular, usurped &amp; not approved of God, which swerveth from that rule of the exercise of his power in matters of re<g ref="char:EOLhyphen"/>ligion; namely, the Scriptures; and the contrary to that objected would rather follow, that if there must be no King or civill power among Gods pro<g ref="char:EOLhyphen"/>fessed <hi>Israel,</hi> coercively to restraine for<g ref="char:EOLhyphen"/>bidden evills in Religion, then every man would hold and doe as he list, as if every one were a Pope; and then <hi>Mi<g ref="char:EOLhyphen"/>cah's!</hi> Idolatry and any other abomina<g ref="char:EOLhyphen"/>tions may be set up.</p>
+            <p n="7">7. That thereby the civill Magistrate is put upon many intricate perplexities &amp; hazards of conscience, how to judge in and of matters of Religion.</p>
+            <p>But this doth not hinder the Magi<g ref="char:EOLhyphen"/>strate from that use of his coercive power, in matters commanded or for<g ref="char:EOLhyphen"/>bidden in the first Table, no more then it doth hinder him from the like pow<g ref="char:EOLhyphen"/>er in matters of the second Table; none being ignorant what perplexing intri<g ref="char:EOLhyphen"/>cacies there are in these as well as in the former; as conscientious Magi<g ref="char:EOLhyphen"/>strates finde by dayly experience; yet such as object this will not deny this power in the latter, and why then in
+<pb n="11" facs="tcp:66131:7"/> the former; the objection proveth the difficulty of his knowing of Gods minde in his place, and if it had been objected against Church-Officers pow<g ref="char:EOLhyphen"/>er in Churches, or the power of Parents and Masters in their families, it would have proved the same; but it followes not, its difficult for a man in authority to know the utmost of his duty in his place, therefore its not necessary for him to doe his duty in his place.</p>
+            <p>They which inaugurated <hi>Joash</hi> to be King, 2 <hi>Chron.</hi> 23.11. they put upon him the testimony (as the Hebrew words used to be expounded) to shew that it was his duty as a King not one<g ref="char:EOLhyphen"/>ly to know the testimonie or booke of Gods Law, but authoritatively to esta<g ref="char:EOLhyphen"/>blish what was written in it.</p>
+            <p n="8">8. That thereby persons are put up<g ref="char:EOLhyphen"/>on acting with doubting consciences; the Magistrates Injunctions being oft<g ref="char:EOLhyphen"/>times not cleare to such as are to obey them, and so they are thereby compel<g ref="char:EOLhyphen"/>led to sin. When the position affirmeth this power <hi>in matters cleared in the Word,</hi> which if not cleared to this or that subject in a Christian Common-wealth, that is his owne fault, by his owne ig<g ref="char:EOLhyphen"/>norance
+<pb n="12" facs="tcp:66131:8"/> of matters which he is bound to know, to bring any such snare upon his conscience, and in such a case he may desire the Magistrate to use the best meanes to cleare up the matters enjoy<g ref="char:EOLhyphen"/>ned or forbidden, to be commanded or forbidden in the Word; but neither of these hinder but that the Magistrate is to command or forbid that which God hath commanded or forbidden; even that which Christ hath commanded or forbidden, should not then be urged upon mens consciences by Church-Of<g ref="char:EOLhyphen"/>ficers, or Church-censures be executed against obstinate gaine-sayers, because through error in judgement, and cor<g ref="char:EOLhyphen"/>ruption in conscience, men will say then and after all meanes used for cor<g ref="char:EOLhyphen"/>viction, they may still affirme that they thinke otherwise, or at best that they still doubt of the matters in question, yea albeit the matters be fundamen<g ref="char:EOLhyphen"/>tall.</p>
+            <p n="9">9. That hereby Christians are dis<g ref="char:EOLhyphen"/>couraged from seeking more light or hindred from embracing or following such new light as the Saints expect in these latter dayes. When as its evident that the commanding and forbidding
+<pb n="13" facs="tcp:66131:8"/> things cleared in the Word, to be good or evill, doth neither expresse what light men have from the Word, nor discourage from more light in &amp; from the same, as not in matters of the second Table, so ne<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther of the first.</p>
+            <p n="10">10. That thereby conscientious men especially, will come to suffer, because Magistrates may think things comman<g ref="char:EOLhyphen"/>ded or forbidden of God, and accord<g ref="char:EOLhyphen"/>ingly ratifie them by their authority, which God did never command or for<g ref="char:EOLhyphen"/>bid, when as the question is not con<g ref="char:EOLhyphen"/>cerning Magistrates enjoyning what they thinke, but what is the minde of God; nor can the pressing of the minde of God commanding what he requi<g ref="char:EOLhyphen"/>eth, and forbidding the contrary, be any just or proper cause of suffering to men truly conscientious.</p>
+            <p>The Magistrate may indeed through mistake command or forbid things, re<g ref="char:EOLhyphen"/>specting not onely the first but the se<g ref="char:EOLhyphen"/>cond Table. But this doth not deprive civill Magistracy therefore of coercive power, as not in matters of the second, so neither of the first Table; but in this ease Christians must be content to suf<g ref="char:EOLhyphen"/>fer in either, albeit withall the Magi<g ref="char:EOLhyphen"/>strate doe breake his rule.</p>
+            <p n="11">
+               <pb n="14" facs="tcp:66131:9"/>11. That thereby we shall incourage and harden <hi>Papists</hi> and <hi>Turks</hi> in their cruell persecutions of the <hi>Saints;</hi> where<g ref="char:EOLhyphen"/>as for the Magistrate to command or forbid according to God, as it is not persecution, so neither doth it of it selfe, tend to persecution. Power to presse the Word of God and his truth, doth not give warrant to suppresse or oppresse the same: the times are evill indeed when the pressing of obedience to the rule shall be counted persecu<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="12">12. That thence are caused all the warres in Christendome at this day; when it is evident that the pressing men to obey the will and word of God in matters either of the second or first Ta<g ref="char:EOLhyphen"/>ble, is not of it selfe any cause of warrs, but the lusts rather of such as abuse their power contrary to the Word.</p>
+            <p>By this already spoken we have seen the ruine of twelve of our opposites Castles in the ayre, imaginarily framed to withstand the civil Magistrates coer<g ref="char:EOLhyphen"/>cive power in matters of Religion.</p>
+            <p>Let us now in the next place consider at the <hi>object</hi> of this coercive power of the Magistrate, which in the state of the
+<pb n="15" facs="tcp:66131:9"/> question we call the <hi>(outward man)</hi> the things which the civill Magistrate, as such, doth command or forbid, he commandeth or forbiddeth with im<g ref="char:EOLhyphen"/>mediate respect to the outward man. The Magistrate as a Magistrate looketh immediately at the externall acts of the body, and not at the internall acts of the soule, its his property as a civill Ruler to attend onely the duties and sinnes which appeare in the walke of the outward man. Thus <hi>Calvin, Beza, Chemnitius, Gerard,</hi> and other Prote<g ref="char:EOLhyphen"/>stant Divines generally.</p>
+            <p>Hereby also other objections receive answer; as first, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> Must Magistrates punish any man for being of a corrupt judge<g ref="char:EOLhyphen"/>ment, or barely for an errour in his judgement, or for having a corrupt heart, and sundry lusts in it?</p>
+            <p>We say no: <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> because whilst he keepeth his opinion to himselfe, and whilest his lusts are confined within his breast, he is to be left to the sword of the Spirit, and to the Word of God, thereby one<g ref="char:EOLhyphen"/>ly to be convinced; the Magistrates power onely extending to the outward man, but if either his mentall errours, or hearts lust breake out into open ex<g ref="char:EOLhyphen"/>pression
+<pb n="16" facs="tcp:66131:10"/> and view, and become scanda<g ref="char:EOLhyphen"/>lous and spreading, then they become breaches of rules by the outward man, yea, tend to infringe that outward god<g ref="char:EOLhyphen"/>ly peace, of which he is to be a preser<g ref="char:EOLhyphen"/>ver, and so in both respects he is to deale with the same.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Must a Magistrate command men to believe with all their heart, to repent and mortifie their sins and lusts?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> We say no: because these appertaine to the inward man and soule of man, to attend so farre as they are inward, but if we speake of any outward pro<g ref="char:EOLhyphen"/>fession of these, so farre he may com<g ref="char:EOLhyphen"/>mand as to professe the faith by com<g ref="char:EOLhyphen"/>ming to heare the Word, and to repent by publick fasting and prayer. And if Princes have no power in such exter<g ref="char:EOLhyphen"/>nall things, then have they no power instrumentally to remove the wrath of God from their Kingdomes by generall humiliations.</p>
+            <p>Briefly now of the manner and means of the exercise of this power, included in that phrase <hi>[civilly]</hi> we say not <hi>eccle<g ref="char:EOLhyphen"/>siastically,</hi> as if he might put forth his power in a Church way, &amp; by Church-weapons or censures, but civilly or in
+<pb n="17" facs="tcp:66131:10"/> a civill way or by civill censures or punishments.</p>
+            <p>Whence also other objections are answered, as that the weapons of our warfare are nor carnall but spirituall; and that <hi>Paul</hi> sheweth a way of redres<g ref="char:EOLhyphen"/>sing all offences, 1 <hi>Cor.</hi> 5.5. 2 <hi>Tim.</hi> 2. 25. and Faith comes by hearing, and not by whipping: when these places rather intend and shew a Church way of healing Church offences: and doe no more exclude a Politicall way of healing offences in a Christian Com<g ref="char:EOLhyphen"/>mon-wealth, than an Economicall way of redressing disorders in the Family; so the other place sheweth a spirituall means of drawing men to the Faith; so that neither are pertinent to the case of the Civill power, acting civilly; nor doth this Assertion, <hi>That the Ma<g ref="char:EOLhyphen"/>gistrate is to be a terrour to all evill works,</hi> (applying the same to evill works for<g ref="char:EOLhyphen"/>bidden in the first Table) any more exclude the use of Church-discipline therein: then it doth in matters of the second Table, if applyed thereunto; for the Church may proceed in her way to censure <hi>Ecclesiastically</hi> one and the same thing, whether it be against the
+<pb n="18" facs="tcp:66131:11"/> first or second Table, which the Magi<g ref="char:EOLhyphen"/>strate doth punish <hi>civilly.</hi>
+            </p>
+            <p>The last thing to be explained in the state of the Question is, touching the <hi>coercive power</hi> of the M<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gistrate, namely, <hi>Godly peace.</hi> Now by <hi>Godly peace</hi> (to which the Magistrate imme<g ref="char:EOLhyphen"/>diately looketh) we mean a peaceable living, as in all honesty, so in godlines, as the Apostle hath it, 1 <hi>Tim.</hi> 2.1, 2. So far as any matters of Religion, co<g ref="char:EOLhyphen"/>ming under the Magistrates cognizance as a publick Officer in the Common-wealth, doe either further or hinder such a peace of a Christian Common-wealth, so far is he to put forth his co<g ref="char:EOLhyphen"/>ercive power accordingly.</p>
+            <p>Hereby also, with reference to things before explained, other Objections may receive answer, as</p>
+            <p n="1">1 Will you have Magistrates put forth their coercive power to the full, in Lawes, with Sanctions of punish<g ref="char:EOLhyphen"/>ments; as that men shall pray in their Families, so long, or so oft, or else suf<g ref="char:EOLhyphen"/>fer? That a Minister in preaching, if he exceed a just houre, he must suffer, and the like? we say, if either the mat<g ref="char:EOLhyphen"/>ters be meerly circumstantiall, or if
+<pb n="19" facs="tcp:66131:11"/> they be matters of lesse moment, and such as doe not of themselves any way infringe publick peace, or that they are not pertinatiously &amp; tumultuously maintained to the disturbance of pub<g ref="char:EOLhyphen"/>lick peace, in all such like cases, where<g ref="char:EOLhyphen"/>in the Civill Magistrate's end is not in<g ref="char:EOLhyphen"/>trenched upon, he may not exercise the coercive power of his Authority, with sanction, or execution of punishments.</p>
+            <p n="2">2 Will not this <hi>Thesis</hi> arme and stir up the Civill power in Old <hi>England,</hi> a<g ref="char:EOLhyphen"/>gainst godly Orthodox ones of the Congregationall way: or exasperate Civill power in <hi>New England,</hi> against godly, moderate, and Orthodox Pres<g ref="char:EOLhyphen"/>byterians, if any such should desire their liberty here? we conceive no, ex<g ref="char:EOLhyphen"/>cept the civill disturbance of the more rigidly, unpeaceably, and corruptly minded, be very great; yet betwixt men godly and moderately minded on both sides, the difference upon true and due search is found so small, by judi<g ref="char:EOLhyphen"/>cious, Orthodox, godly, and moderate Divines, as that they may both stand to<g ref="char:EOLhyphen"/>gether in peace and love; if liberty should be desired by either sort here or there so exercising their liberty, as the
+<pb n="20" facs="tcp:66131:12"/> publick peace be not infringed: The state of the Question in the explication thereof, will rather quench then kin<g ref="char:EOLhyphen"/>dle any such coales against either: If indeed persons professing either the Congregationall or Presbyteriall way, will shelter or close, either with other Blasphemous, Hereticall, or Schismati<g ref="char:EOLhyphen"/>call Tenents, which tend to break the peace of the Congregationall way there where a Presbyteriall way is authori<g ref="char:EOLhyphen"/>zed to be the generall way of the Chur<g ref="char:EOLhyphen"/>ches, or the Presbyteriall way here, where the Congregationall way is au<g ref="char:EOLhyphen"/>thorized to be the generall way of the Churches, there they may be strained by the power of the Civil Magistrate, as disturbers and breakers of godly peace, the conservation whereof is the Civil Magistrates end and work, unto which he is to attend.</p>
+            <p>Having thus cleared the state of the Question, we shall now come to some Arguments from Scripture, which con<g ref="char:EOLhyphen"/>firme the Affirmative part of the que<g ref="char:EOLhyphen"/>stion so stated; and the Arguments are taken some from the old, some from the New Testament. Of the former sort there are three.</p>
+            <p n="1">
+               <pb n="21" facs="tcp:66131:12"/>1 In that it is evident that Rulers of old,<note place="margin">From the Old Testa<g ref="char:EOLhyphen"/>ment.</note> and those Rulers in the Common-wealth of <hi>Israel,</hi> they are commended in Scripture for the exercise of such <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>1</label> power in the matters of the first Table; and therefore it is according to the mind of God that now civil Rulers do the like. <hi>Abraham,</hi> who was not an or<g ref="char:EOLhyphen"/>dinary master of a family, but a Prince among them, <hi>Gen.</hi> 23.6. He is com<g ref="char:EOLhyphen"/>mended for laying the force of his com<g ref="char:EOLhyphen"/>mand upon those under his power, in matters of Religion, <hi>Gen.</hi> 18 19. And if he had been considered as a Master, yet less would not be granted that way to a Ruler of a Common-wealth, than of a Family, but rather more. <hi>Job</hi> as a civil Ruler, as a King in an Army of persons under his command, did not leave each of them to chose out their own way of Religion or justice, but he chose it, he determinatively set it down for them. <hi>I sate as King in an Ar<g ref="char:EOLhyphen"/>my, I chose out their way,</hi> &amp;c. <hi>Job</hi> 29.25. The King of <hi>Ninivey,</hi> with his Princes, did not barely commend that duty of fasting and prayer, to his people, as ve<g ref="char:EOLhyphen"/>ry convenient to be attended, yet lea<g ref="char:EOLhyphen"/>ving them to their liberty to omit the
+<pb n="22" facs="tcp:66131:13"/> same: but he positively commands the same, that the wrath of God might be prevented,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>Jonah</hi> 3.7. The word is u<g ref="char:EOLhyphen"/>sed for a coercive command or decree, <hi>Ezra</hi> 4.21. &amp; 6.11. <hi>Dan.</hi> 3.10, 11. &amp; 29. &amp; 6.7, 8, 9. &amp; 13. and the act of the civil Authority of <hi>Ninivey,</hi> having so much influence into the peoples act, <hi>Jonah</hi> 3.5, 6, &amp; 7. verses compared, is implicitely commended by Christ, in his commendation of the repentance of the men of <hi>Ninevey;</hi> and so of the King and Princes of <hi>Ninevey,</hi> whose hearts were so thorowly touched, as to im<g ref="char:EOLhyphen"/>prove their authority to further that civil work of <hi>Ninevy's</hi> repentance. The examples of <hi>Moses. Joshua, David, Solomon, Asa, Jehosaphat, Hezekiah, Josiah, Nehe<g ref="char:EOLhyphen"/>miah,</hi> &amp;c. are obvious to every ordi<g ref="char:EOLhyphen"/>nary eye, which looks into the Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> They of old were Types, therefore their examples are not now of force for our imitation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> We suppose the Objection intends not by <hi>Type,</hi> and <hi>exemplar</hi> for imitati<g ref="char:EOLhyphen"/>on, as Type in a generall sense is used, 1 <hi>Cor.</hi> 10.6. compared with 11. for this were to overthrow the scope of
+<pb n="23" facs="tcp:66131:13"/> the Objectors, but rather it meaneth a <hi>Type</hi> strictly taken, namely that they in that exercise of their power, did but shaddow out Christs Kingly power; but of this the opposites give onely a barren assertion, without proof, and that will not carry it. But we shall answer it more particularly.</p>
+            <p n="1">1 Then such may as well say, those Rulers did shaddow out Christ in the exercise of their power in matters of the second Table, and therefore are not therein imitable, which none will af<g ref="char:EOLhyphen"/>firme. <hi>Solomon</hi> typed out Christ in sub<g ref="char:EOLhyphen"/>duing of enemies, relieving the opres<g ref="char:EOLhyphen"/>sed, procuring the peace of the state, <hi>Psal.</hi> 72. Must not Princes therefore doe the like?</p>
+            <p n="2">2 Those that make that Objection, they use to put it thus, The Kings of <hi>Israel</hi> were such Types; but such an one was not <hi>Abraham,</hi> nor <hi>Job,</hi> nor <hi>Ne<g ref="char:EOLhyphen"/>hemiah,</hi> who by a Coercive Law injoin<g ref="char:EOLhyphen"/>ed the sanctifying of the <hi>Sabbath,</hi> Neh. 13. nor the King of <hi>Ninevey,</hi> nor was that wicked King of <hi>Israel, Ahab,</hi> a type of Christ, which should have put that blaspheming <hi>Benhadad</hi> to death [whence that sharpe reproof of him for not do<g ref="char:EOLhyphen"/>ing
+<pb n="24" facs="tcp:66131:14"/> it, 1 <hi>Kings</hi> 20. To say nothing of <hi>Darius</hi> &amp; <hi>Nebuchadnezzars</hi> Decrees this way, which are recorded in way of commendation thereof, <hi>Ezra</hi> 6. and <hi>Dan.</hi> 3.29.</p>
+            <p n="3">3 <hi>Solomon</hi> himselfe (who if any were types of Christ therein, he was) set<g ref="char:EOLhyphen"/>teth it downe by direction of the Spirit as a morall duty of each King indefi<g ref="char:EOLhyphen"/>nitely, that (howsoever <hi>de facto,</hi> ma<g ref="char:EOLhyphen"/>ny doe otherwise, yet <hi>de jure) he scat<g ref="char:EOLhyphen"/>tereth away all evill with his eye,</hi> Prov. 20.8. meaning all publick evil which cometh within his ken; as a King or publick person, whether the evill be a<g ref="char:EOLhyphen"/>gainst the first or second Table; unlesse any make exception, and say, that ei<g ref="char:EOLhyphen"/>ther there are no sins against the first Table coming under the Magistrates view, or though they doe, yet they are not evil.</p>
+            <p n="4">4 It was a stated doctrine in the time of <hi>Job</hi> (who by the most judici<g ref="char:EOLhyphen"/>ous is thought to live before <hi>Moses</hi>) and it is attested and approved by the <hi>Holy Ghost,</hi> that sins against the first Ta<g ref="char:EOLhyphen"/>ble, as <hi>Idolatry,</hi> was iniquity to be pu<g ref="char:EOLhyphen"/>nished by the Judges, <hi>Job</hi> 31.26, 27, 28. as well as sins against the second Table,
+<pb n="25" facs="tcp:66131:14"/> as <hi>Adultery,</hi> ibid. <hi>vers.</hi> 9. and 11.</p>
+            <p>Those Rulers of old did thus as Members of the Nationall Church of the <hi>Jewes,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> the same persons being Mem<g ref="char:EOLhyphen"/>bers of Church and Common-wealth; but it is not alwayes so now.</p>
+            <p n="1">1 Then at least where Magistrates are Members of Churches, <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> they may in these dayes exercise such power.</p>
+            <p n="2">2 Though they were Members both of Church and State, yet they were to put forth their Coercive power civil<g ref="char:EOLhyphen"/>ly, not as Members of the Church, but of the State, else it had been to con<g ref="char:EOLhyphen"/>found Church and State, yea, to make God (which directed to it) to be the author of that confusion.</p>
+            <p n="3">3 They were to punish such to whom they stood in no Church relation at all, but meerly Civil, for sins against the first Table. Hence <hi>Ahab</hi> was blamed for not punishing <hi>Benhadad</hi> blasphe<g ref="char:EOLhyphen"/>ming God, as if a God of the Hils, but not of the valleys: Hence <hi>Nehemiah's</hi> resolution to punish even any of those strangers which should prophane the Sabbath, <hi>chap.</hi> 13.</p>
+            <p n="4">4 <hi>Job,</hi> and those Judges mentioned in his time, as bound to punish <hi>Idola<g ref="char:EOLhyphen"/>try,</hi>
+               <pb n="26" facs="tcp:66131:15"/> were no Members of the Jewish Church.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> If you make the example of the Prin<g ref="char:EOLhyphen"/>ces of <hi>Israel,</hi> acting Coercively in mat<g ref="char:EOLhyphen"/>ters of Religion for Magistrates imi<g ref="char:EOLhyphen"/>tation, why doe not you make the <hi>Le<g ref="char:EOLhyphen"/>vites</hi> a pattern also to Ministers now, to act as they did civilly, in civil cen<g ref="char:EOLhyphen"/>sures?</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> 1 It's not clear that the <hi>Levites</hi> did act any further than by counsel, or at most by some generall consent to that which the Princes were formally to Act.</p>
+            <p n="2">2 If the <hi>Levites</hi> did act in matters of the State by a peculiar liberty, it doth not follow, that this can invalidate the Rulers power, then acting in matters of Religion; as if by a peculiar liber<g ref="char:EOLhyphen"/>ty also, unlesse the Objection could be bottomed on the proportion betwixt the <hi>Levites</hi> then, and the Rulers then: Thus, that as the <hi>Levites</hi> which by spe<g ref="char:EOLhyphen"/>ciall liberty (proper to those times, and so not imitable now) did inter<g ref="char:EOLhyphen"/>meddle in matters peculiar to Magi<g ref="char:EOLhyphen"/>strates, so the Magistrates then did in<g ref="char:EOLhyphen"/>termeddle in matters peculiar to the Priests, by a liberty proper to those
+<pb n="27" facs="tcp:66131:15"/> times; and this would be crosse to ex<g ref="char:EOLhyphen"/>presse Text, 2 <hi>Chron.</hi> 26.16. where <hi>Ʋz<g ref="char:EOLhyphen"/>zias</hi> med<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g with Priestly matters of offering Incense, is made a transgressi<g ref="char:EOLhyphen"/>on against the Lord, for which he was afterward ruined.</p>
+            <p n="3">3 We make the <hi>Levites</hi> intermedling judi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ially in Civil matters, therefore not imitable, because what they are supposed to doe that way, was by a liberty peculiar to that time; but we make the example of the civil Rulers acting their Coercive power in matters of Religion, imitable, because not pe<g ref="char:EOLhyphen"/>culiar to the Jewish Church, as appears, in that what power they that way ex<g ref="char:EOLhyphen"/>ercised, the same in substance did <hi>Job,</hi> and other Judges in his time, by Divine direction and approbation, put forth; yea the judiciall act of <hi>Nebuchadnezzar</hi> in punishing <hi>Ahab</hi> and <hi>Zedekiah</hi> with death, not for their Adultery onely (a sin against the second Table) but for their false doctrine (a matter of Reli<g ref="char:EOLhyphen"/>gion) was of Gods appointment, <hi>Jer.</hi> 29.21. with 23. and hence by Gods appointment was this execution of Gods vengeance on them, made a pro<g ref="char:EOLhyphen"/>verbial Curse, <hi>vers.</hi> 22.</p>
+            <pb n="28" facs="tcp:66131:16"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>2</label> A second Argument is, in that it's recorded as a most desperate and ac<g ref="char:EOLhyphen"/>cursed estate of old, that they had no King or chief Ruler in <hi>Israel,</hi> to restrain, as Adultery, and Murther (sins against the second Table, <hi>Judges</hi> 19.1. with <hi>chap.</hi> 20.) so Idolatry (a sin against the first Table, <hi>chap.</hi> 17.1. &amp; 18.1. compared) but every man had his li<g ref="char:EOLhyphen"/>berty, to doe what was right in his owne eyes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>3</label> The third Argument is, in that it is recorded as a matter of speciall guid<g ref="char:EOLhyphen"/>ance and direction of God, and ac<g ref="char:EOLhyphen"/>knowledged by <hi>Ezra,</hi> inspired by the Spirit, as a special mercy of God to his people, that <hi>Artaxerxes</hi> an Heathen King, had an heart to put forth his co<g ref="char:EOLhyphen"/>ercive power injoyning things com<g ref="char:EOLhyphen"/>manded of God, and forbidding, with sanction of sutable punishments, the evils, whether against the Lawes of the King, or against the Lawes of God, whether concerning Religion, or righ<g ref="char:EOLhyphen"/>teousnesse: whence we argue, that this use of the civil power was of God of old, and therefore the same is as well of God now. <hi>Artaxerxes</hi> was indeed an instrument in the hand of Christ, but
+<pb n="29" facs="tcp:66131:16"/> not therefore a Type of Christ: Nor was this of the nature of a meer Jew<g ref="char:EOLhyphen"/>ish judiciall Law, because injoining punishments, moral offences being pu<g ref="char:EOLhyphen"/>nishable; and yet not therefore of a meer judicial nature, or meerly against a judicial Law; besides this act of <hi>Ar<g ref="char:EOLhyphen"/>taxerxes</hi> respected civil matters, and matters of the second Table (which none will challenge as not imitable) as well as matters of Religion. And that which some object, that he did this for fear of wrath, rather confirmeth the morality of the use of such power, then otherwise. For what ground of fear in not putting forth such coercive power, if the omission of it were not sinfull? Yea, if the use of such a coer<g ref="char:EOLhyphen"/>cive power in matters of Religion, were not according to Gods mind (as our opposites say) he might rather more groundedly have feared Gods wrath for such an high offence, as usur<g ref="char:EOLhyphen"/>pation of a power which the Lord dis<g ref="char:EOLhyphen"/>liked, and forbade.</p>
+            <p>Thus much of the first head of Argu<g ref="char:EOLhyphen"/>ments from the Old Testament; those from the New follow, and they are foure.</p>
+            <pb n="30" facs="tcp:66131:17"/>
+            <p>
+               <note place="margin">From the New Te<g ref="char:EOLhyphen"/>stament.</note>The first is taken from <hi>Rom.</hi> 13. If God will have every soul in and of the <label type="milestone">
+                  <seg type="milestoneunit">Argum: </seg>1</label> Churches, and that of <hi>Rome,</hi> as well as others, to be subject to civill Magi<g ref="char:EOLhyphen"/>strates, as being <hi>powers ordained of God,</hi> v. 1. <hi>an Ordinance of God,</hi> v. 2. <hi>a terrour</hi> not to good works, but to <hi>evill,</hi> v. 3. <hi>the ministry of God for their good,</hi> v. 4. and that <hi>for conscience sake,</hi> v. 5. Then Magistrates are to put forth coercive power in such matters of Religion, re<g ref="char:EOLhyphen"/>specting the outward man. But the for<g ref="char:EOLhyphen"/>mer is true, <hi>ergo,</hi> the latter.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> All this may be true, and yet verified onely in matters of the second Table, and is extended to matters of the first, yet onely to such things as are against the Law of Nations, or the light of Nature, and so no proof of that for which it is urged. He is a terrour to evil works, but it is not said he is so <hi>to all evill works.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> 1 If all this be restrained according to the intent of the Objection, then is none to have praise, approbation, in<g ref="char:EOLhyphen"/>couragement from Civil Authority, by reason of matters of <hi>Faith,</hi> or of <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> but for matters of righteousnesse onely: or if for any matters of Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="31" facs="tcp:66131:17"/> yet onely for such as stand with the light of nature, and Law of Nati<g ref="char:EOLhyphen"/>ons, as the third Verse must be Ex<g ref="char:EOLhyphen"/>pounded. For if it be supposed, that it is an act of Justice (whereof the Ma<g ref="char:EOLhyphen"/>gistrate is Minister) to distribute re<g ref="char:EOLhyphen"/>wards in any matters of Religion, that appeares in the walk of the outward man, and respect godly peace in way of encouragement, it must needs be an act of like justice, to distribute punish<g ref="char:EOLhyphen"/>ments to the contrary. The Magistrate being, according to the Apostles distri<g ref="char:EOLhyphen"/>bution, a Minister of God, as well when he encourageth good, as when he represseth and punisheth evil.</p>
+            <p n="2">2 The Objection would make one<g ref="char:EOLhyphen"/>ly offences against the rules of the se<g ref="char:EOLhyphen"/>cond Table, or at most, those that are against the Law of nature and Nations (which come under the view of the Magistrate, as a publick Minister of God) to be evill works, and not other sins of like publick cognizance &amp; con<g ref="char:EOLhyphen"/>cernment, respecting other matters of Religion. For if both sorts of offen<g ref="char:EOLhyphen"/>ces are evil, he being a terrour to evil works indefinitely, which come to his publick cognizance, he is a terrour <hi>ex
+<pb n="32" facs="tcp:66131:18"/> officio,</hi> to both; and it is vaine to say, he saith <hi>evill works,</hi> not <hi>all</hi> evil works; for so he saith, he is not a terrour to <hi>good works,</hi> but saith not, to <hi>all</hi> good works, and therefore if that indefinite <hi>(good works)</hi> be not equivalent to that general <hi>(all good works)</hi> he may then it seems be a terrour to some <hi>good works</hi> which come under his publick cogni<g ref="char:EOLhyphen"/>zance.</p>
+            <p n="3">3 We are yet to speak of that limi<g ref="char:EOLhyphen"/>tation, where the New Testament al<g ref="char:EOLhyphen"/>loweth the civil Magistrate power, as in matters of righteousnesse, so in mat<g ref="char:EOLhyphen"/>ters of Religion; so far namely as the light of nature, and Law of Nations extendeth in matters of the outward man, which come to his publick view: but restraineth him from medling fur<g ref="char:EOLhyphen"/>ther in any matters of Religion, of like publick cognizance and concern<g ref="char:EOLhyphen"/>ment. That Scripture ground of this distinction and restriction, would be produced.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> I, when <hi>Paul</hi> wrote this Epistle to the <hi>Romans,</hi> their Rulers were Pagans, and what coercive power was it likely they would put forth in any matters of Religion, unlesse against the true
+<pb n="33" facs="tcp:66131:18"/> Religion, as undermining their Paga<g ref="char:EOLhyphen"/>nisme; Crying downe the same as wor<g ref="char:EOLhyphen"/>ship of Devils, and teaching them to cast off their Heathen Gods as no Gods? They did not look at Jesus Christ as their Supream Lord, but as a new up<g ref="char:EOLhyphen"/>start God in comparison of their <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Gods; and to make penall Laws against false doctrine or Religion, had been to make Lawes against themselves as well as others, and to make Lawes against the present light of their owne consciences.</p>
+            <p>This no way weakneth, <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> but strength<g ref="char:EOLhyphen"/>neth what we have said: For if even those Pagan Rulers in <hi>Pauls</hi> time, were (by their Office Ministers of God) then bound to improve their Authority for the ratifying and establishing of his Lawes, and for those of the first, as well as second Table, and then bound by their Office (as Ministers of God) to rule for him, and the exacting of his rule in and over their subjects. And that they did not know, and doe thus, it was their sin. Many of them thought plurality of wives, fornication, rash divorces, incestuous marriages, usury, <hi>&amp;c.</hi> no sin, and it may be said, if they
+<pb n="34" facs="tcp:66131:19"/> had made Lawes against these, they had made Lawes against themselves, and the light of their owne consciences, as thinking in their seduced, blinded con<g ref="char:EOLhyphen"/>sciences, that these were lawfull; yet all will say, they were all Ministers of God, and bound to know and doe o<g ref="char:EOLhyphen"/>therwise. <hi>Nero</hi> is branded for a beastly person, a Lyon, in that he abused that Authority of his, which of right should have beene improved for encourage<g ref="char:EOLhyphen"/>ment of <hi>Paul</hi> in his Ministry and do<g ref="char:EOLhyphen"/>ctrine, to be a means to endeavoure to destroy and devoure him, 2 <hi>Tim.</hi> 4.17.</p>
+            <p n="2">2 A second Argument is taken from 1 <hi>Tim.</hi> 2.1, 2. We are to pray that we may have such Magistrates as may act Authoritatively in matters of Religi<g ref="char:EOLhyphen"/>on and piety, as well as of righteous<g ref="char:EOLhyphen"/>nesse and honesty; therefore it is the mind of God, that civil Magistrates should put forth their power in the one as well as in the other.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Yea but some have said, If you now allow civil Rulers power in matters of Religion, they will persecute us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> The Apostle doth not answer; pray therefore in these persecuting times of Romish Emperours, that they may not
+<pb n="35" facs="tcp:66131:19"/> meddle at all coercively in matters of Religion, as being to usurpe power not belonging to them; but rather pray that they may use this power which they have aright, or as we may peace<g ref="char:EOLhyphen"/>ably exercise acts of Religion, as well as honesty; nor doth he say, pray that they may deale in matters of Religion negatively, that is, so as authoritative<g ref="char:EOLhyphen"/>ly to hinder any from disturbing any Christian in that which he taketh up for truth or piety; or in any opinion which he may hold, and yet be a godly man; no more then he saith, pray that they may deale so in matters of hone<g ref="char:EOLhyphen"/>sty, as to hinder any from disturbance in any supposed course of honesty, yea in any acts of dishonesty, which may be incident to one, that yet in the main is godly, for that were to pray to be let alone in all ungodlinesse or disho<g ref="char:EOLhyphen"/>nesty: Nor doth he say, pray that e<g ref="char:EOLhyphen"/>very one may live according to his Conscience, or hold out any opinion, Tenent, or practice, suiting with his conscience, so it race not the founda<g ref="char:EOLhyphen"/>tion of godlinesse; but pray for them, that we may live in all godlines peace<g ref="char:EOLhyphen"/>ably, or that we may with quietnesse
+<pb n="36" facs="tcp:66131:20"/> and encouragement so carry it, as will stand with godlinesse it selfe, yea with godlinesse in the highest degree of it, or any part of it, <hi>in all godlinesse.</hi>
+            </p>
+            <p>A third Argument is taken from <hi>Isa.</hi> 49.23. which though a Scripture of the Old, yet respecting the dayes of the New Testament, and the substance of the Argument stands thus. It is the mind of God that civil Rulers in the dayes of the New Testament should Au<g ref="char:EOLhyphen"/>thoritatively act in spirituall things, which are to the Church as milke; therefore it's his mind that in these dayes they should act Authoritatively in matters of Religion, we say <hi>to act Authoritatively,</hi> because to act <hi>as Fathers and Mothers,</hi> and therefore not to act meerly alluringly (as some say) or in a generall way of countenance, but <hi>coercively:</hi> Fathers act fatherly in com<g ref="char:EOLhyphen"/>manding, in forbidding, and in punish<g ref="char:EOLhyphen"/>ing, as well as in kissing, and giving good words; in taking the rod, as gi<g ref="char:EOLhyphen"/>ving an Apple; nor doth he say, they should be <hi>Nurses,</hi> as if they were to take upon them to act officially in Preach<g ref="char:EOLhyphen"/>ing or in administration, whether of Church seales, or of Church censures.
+<pb n="37" facs="tcp:66131:20"/> The nature of the similitude forbids it. Nurse-fathers cannot give milk to the Child, but <hi>Nurse-fathers,</hi> and <hi>Nurse-mo<g ref="char:EOLhyphen"/>thers,</hi> to take Authoritative care, what milk either Church-Officers, or any o<g ref="char:EOLhyphen"/>thers yield forth to the Church, to see that it be good, and accordingly to re<g ref="char:EOLhyphen"/>ward and encourage it, to look that it be not bad, but coercively to restrain it, at least from being milked forth to the Churches hurt: Albeit if kept within the breast that bred it, it is out of their cognizance; nor is this spoken of Hea<g ref="char:EOLhyphen"/>then Rulers, as Pagans, not Christians, but of such which though as civil Ru<g ref="char:EOLhyphen"/>lers they command in matters of Reli<g ref="char:EOLhyphen"/>gion, or righteousnesse, yet as Members of the Church they obey the Church, stooping to its doctrine and discipline so, they lick up the dust of the Church<g ref="char:EOLhyphen"/>es feet.</p>
+            <p n="4">4 A fourth Argument is taken from <hi>Zech.</hi> 13.2, 3, 4, 5, 6. it is Prophecy<g ref="char:EOLhyphen"/>ed of as an approved act, of the zealous Members of the purest Churches to be in the dayes of the Gospel, to make use of the coercive power of the civil Ma<g ref="char:EOLhyphen"/>gistrate in matters of doctrine (a mat<g ref="char:EOLhyphen"/>ter of Religion:) therefore it's the
+<pb n="38" facs="tcp:66131:21"/> mind of God that in these dayes such coercive power in matters of Religion should be exercised; nor may any here restrain these words to Church-cen<g ref="char:EOLhyphen"/>sures, it being not the use of the Holy Ghost to expresse Church-censures greater and lesser, by taking away the life, wounds, and works in the hands, but rather proveth that power of ci<g ref="char:EOLhyphen"/>vil Authority to inflict death in some cases of false doctrine, and some other reproachfull corporal punishments, in some cases of errors which are not of moment as the other.</p>
+            <p>Thus much for the Arguments pro<g ref="char:EOLhyphen"/>ving the Position; we shall briefly now take off two or three generall Objecti<g ref="char:EOLhyphen"/>ons, and then come to a close of this Question.</p>
+            <p>
+               <hi>The weapons of our warfare are not car<g ref="char:EOLhyphen"/>nall, but spirituall:</hi> Therefore no such use now to the people of God of such carnall weapons as the penall Lawes or censures of Civil Magistrates in mat<g ref="char:EOLhyphen"/>ters of Religion.</p>
+            <p>It's the unhappinesse of the most of the Arguments in the late Pamphlets and Pleas for Liberty, used against this Coercive power of the Magistrate in
+<pb n="39" facs="tcp:66131:21"/> some cases which we plead for, that if they be forcible, they conclude univer<g ref="char:EOLhyphen"/>sally, even against that coercive power which our opposites allow to him in matters of the second Table, and so far also of the first, as in things against the light of nature, and Law of Nati<g ref="char:EOLhyphen"/>ons: And of this we have a tast in this Argument; for besides the mistake of applying this, as if meant of other per<g ref="char:EOLhyphen"/>sons, then of Church Officers (con<g ref="char:EOLhyphen"/>trary to the very scope of the Text) the Argument concludeth against the use of Civil Magistrates power by Ci<g ref="char:EOLhyphen"/>vil Rulers in matters of the second Ta<g ref="char:EOLhyphen"/>ble, as well as of the first, because spi<g ref="char:EOLhyphen"/>rituall weapons are as weighty to pull down strong holds against the second Table, as well as against the first: Of like nature is that Objection, <hi>Christs Kingdome is not of this world,</hi> this (if of any force) excluding wholly, takes away the Magistrates power in both Tables.</p>
+            <p>The Church hath sufficient power to reach her ends, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> in curbing or curing offences in any matters of Religion; therefore what need is there of such co<g ref="char:EOLhyphen"/>ercive power therein of the Civil Ma<g ref="char:EOLhyphen"/>gistrate.</p>
+            <pb n="40" facs="tcp:66131:22"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>1</label> Suppose it were granted, that there<g ref="char:EOLhyphen"/>fore the Church, as a Church, stood not in need thereof: yet the Church, con<g ref="char:EOLhyphen"/>sidered as a Civil Society, stood in need thereof, and so far the state of the que<g ref="char:EOLhyphen"/>stion were yielded. Or what if the Church had no need, yet in respect of other subjects enjoying the light of the Gospel, though not actually of the Church, as persons not yet joyned to any Church, or such as are actually cast out of the Church, that power might be most needfull; else they might vent things as well against the light of nature, as Law of Nations, or deny things obstinately, which are funda<g ref="char:EOLhyphen"/>mentall, albeit not against the light of nature, or Law of Nations; as for ex<g ref="char:EOLhyphen"/>ample, that <hi>Jesus Christ</hi> is the Redeem<g ref="char:EOLhyphen"/>er and onely Mediatour; that the <hi>Scrip<g ref="char:EOLhyphen"/>tures</hi> are the word of God, <hi>&amp;c.</hi> should yet not be restrained: yea, that were to suppose some under the shining of the Gospel, left of the Lord in a lawlesse condition (in respect of any Authori<g ref="char:EOLhyphen"/>ty to restrain them) in matters of Re<g ref="char:EOLhyphen"/>ligion; the Civil power may not med<g ref="char:EOLhyphen"/>dle with them, and Ecclesiasticall can<g ref="char:EOLhyphen"/>not, as not being actually of the Church.</p>
+            <p n="2">
+               <pb n="41" facs="tcp:66131:22"/>2 The Church hath sufficient power to reach her ends, in curbing and cu<g ref="char:EOLhyphen"/>ring offences of the second Table; yet none will thence conclude, that there<g ref="char:EOLhyphen"/>fore no need no the Church therein, of the Coercive power of the Magistrate.</p>
+            <p n="3">3 The Church aimeth at restraint from infection of others, as well as a<g ref="char:EOLhyphen"/>mending the parties themselves; now supposing the Church casting out a person for obstinate holding of Here<g ref="char:EOLhyphen"/>ticall Tenents, yet the Church cannot now restraine him any further in any Ecclesiastical way, but that he may now doe more mischiefe in spreading his Tenent then ever, unlesse the Magistrate also exercise his Coercive power.</p>
+            <p n="4">4 The Church may in case by cla<g ref="char:EOLhyphen"/>morous noise, made in the Assembly, or otherwise by faction, be hindred from the exercise of its power to cen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure, and so although it have power enough to act, yet it will need the Ma<g ref="char:EOLhyphen"/>gistrates help to exercise that power, unlesse we durst plead as some (it seems doe) that in this case the Elders may act by corporall force to redresse it, as <hi>Phineas</hi> the Priest did, in killing <hi>Zimri,</hi> and <hi>Cozbi,</hi> disturbing the Congregati<g ref="char:EOLhyphen"/>on
+<pb n="42" facs="tcp:66131:23"/> then humbling themselves before God; but we say, that was extraordi<g ref="char:EOLhyphen"/>nary, as was the act of <hi>Samuel</hi> in cut<g ref="char:EOLhyphen"/>ting <hi>Agag</hi> in pieces; of <hi>Elijah</hi> in put<g ref="char:EOLhyphen"/>ting <hi>Baals</hi> Priests to death; and <hi>Peters</hi> act against the life of <hi>Ananias</hi> and <hi>Sa<g ref="char:EOLhyphen"/>phira;</hi> nor would we plead the Priests example, 2 <hi>Chron.</hi> 26. in thrusting out <hi>Ʋzziah</hi> out of the Temple, or such like Arguments; supposing that the Priests of old, and the Levites might, by a dis<g ref="char:EOLhyphen"/>pensation peculiar to those times, be allowed more liberty of acting in mat<g ref="char:EOLhyphen"/>ters of a Civil nature, both in the great <hi>Synedrion,</hi> and other where, then any of us dare say is imitable by, or allow<g ref="char:EOLhyphen"/>able to Churches, or Church Officers now.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Thirdly and lastly, the tares are com<g ref="char:EOLhyphen"/>manded to be let alone, <hi>Mat.</hi> 13.29, 30. Therefore what Authority hath the Magistrate to restraine or punish men now under the Gospel, but rather to leave Christians to the liberty of their owne Consciences?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answ. </seg>
+               </label> This is a Parable, and therefore to be taken in the scope and substance, and not according to the circumstances
+<pb n="43" facs="tcp:66131:23"/> thereof, as <hi>Peter Martyr</hi> noteth in this case. Now the scope of part of the Parable, is not to be a direction unto us, what we shall doe in point of exer<g ref="char:EOLhyphen"/>cise of any power with us, but con<g ref="char:EOLhyphen"/>teins simply a doctrine of providence, what God will order to be the condi<g ref="char:EOLhyphen"/>tion of his visible Church in this world, and therefore to shew, that Christ intended not any rule of pre<g ref="char:EOLhyphen"/>cept of our duty in this sentence of the Parable, <hi>vers.</hi> 29, 30. (Nay let both grow together) he doth not in his after exposition of the severall branch<g ref="char:EOLhyphen"/>es of the Parable, insist at all on the branch mentioned, to give any ex<g ref="char:EOLhyphen"/>plication thereof; and if it were any direction, it must either look to Ci<g ref="char:EOLhyphen"/>vil or Church power; if to Civil pow<g ref="char:EOLhyphen"/>er, then since the tares are expresly in<g ref="char:EOLhyphen"/>terpreted to be the Children of the De<g ref="char:EOLhyphen"/>vil, and such as offend, and doe iniqui<g ref="char:EOLhyphen"/>ty, and are as reprobates to be burn<g ref="char:EOLhyphen"/>ed, or damned, <hi>vers.</hi> 38. Then the worst wretches that live, Murderers, Buggerers, Traytours, <hi>&amp;c.</hi> must be all let alone in their sins, and onely left to Christs Judgement at the last day.</p>
+            <pb n="44" facs="tcp:66131:24"/>
+            <p>And our opposites have least reason to stretch this Parable, as respecting any restraint of the use of the Civil power, when the very scope of it, is not to tell us touching the state of the Civil King<g ref="char:EOLhyphen"/>dome in this world, but rather of the state of the Kingdome of God, or the Ecclesiasticall part of the world (the visible Church) and if it look at any restraint of the use of power, it striketh rather at the use of Church power; but if it look at Church power, then the Churches are not to censure Here<g ref="char:EOLhyphen"/>ticks, no, not though obstinate, contra<g ref="char:EOLhyphen"/>ry to <hi>Titus</hi> 3. No incestuous, adulte<g ref="char:EOLhyphen"/>rous, covetous Church-members; con<g ref="char:EOLhyphen"/>trary to 1 <hi>Cor.</hi> 5. And that the Parable never intended any abridgement of ei<g ref="char:EOLhyphen"/>ther powers in the just exercise thereof, is evident in that it speaketh</p>
+            <p n="1">1 Of such an extirpation of Offen<g ref="char:EOLhyphen"/>dours as is onely possible to Angels ar<g ref="char:EOLhyphen"/>med with Christs power; and</p>
+            <p n="2">2 Of an universal extirpation of all, and every reprobate, from among the company of the Elect; neither of w<seg rend="sup">ch</seg> hinders, but that</p>
+            <p n="1">1 To such particular offendours as may be rooted up by Civil and Church
+<pb n="45" facs="tcp:66131:24"/> power, without danger and hurt to godly ones; as are obstinate seducers, Hereticks, and they may and ought so to be.</p>
+            <p n="2">2 Such particular Offendours, which by their continuance amongst Gods people, doe over-run, and over-top them, in such sort as they are hurt and endangered by them, and they cannot grow and thrive spiritually by reason of them, they may &amp; ought to be root<g ref="char:EOLhyphen"/>ed out by both powers; for if there be any force in the Parable in this way, it is to shew, that the tares are to be suffered, in reference, not to the hurt, but to the good of the wheat; so that which tends to the corrupting, blast<g ref="char:EOLhyphen"/>ing, and destruction of the wheat, is therefore to be removed, because hurt<g ref="char:EOLhyphen"/>full and pernicious to the wheat; so that our opposites would gain nothing to their cause, by pressing this Parable, as directory that way to us; but wee rather (upon the reasons before go<g ref="char:EOLhyphen"/>ing) conceive it to be set down not as a direction, or any Command of Christ enjoyning us thus or thus to doe; but as a doctrinall instruction, that God may and will in his providence suffer
+<pb n="46" facs="tcp:66131:25"/> for a time, mixtures of good and bad together, elect and reprobate, in his visible Church; nor are we to fret, or be discontented at his providence in it, or to think that by any course wee can take, it will be otherwise, whilst, and where ever we are in this world; like to that speech of <hi>Paul,</hi> 1 Cor. 5 10. Now in the close of all, let it be consi<g ref="char:EOLhyphen"/>dered whose doctrine doth most in<g ref="char:EOLhyphen"/>fringe true liberty of conscience; those which would have every Christian left to the liberty of his owne conscience, in matters of Religion, which at least are not against the light of nature, Law of Nations, or those that maintaine the fore-named power of the Magi<g ref="char:EOLhyphen"/>strate; for suppose the Magistrate be a Christian, he must be left to the liberty of his Conscience too, as well as o<g ref="char:EOLhyphen"/>thers: Now if left to the Lesbian warp<g ref="char:EOLhyphen"/>ing rule, what if he in his own Con<g ref="char:EOLhyphen"/>science, through temptation and er<g ref="char:EOLhyphen"/>rour, be in most things a Papist, which may stand with the Law of Nature and Nations, or suppose he in Conscience deny Jesus Christ to be the Mediatour, or such and such Books in the Old and New Testament to be the word of God,
+<pb n="47" facs="tcp:66131:25"/> yea, or that there is any use of the Scri<g ref="char:EOLhyphen"/>ptures, but we must onely depend on Revelations; and herein the Law of nature and Nations leaves him: Now he in Conscience thinks, he is bound to establish this as a Rule to all others, which to him is the truth; and in con<g ref="char:EOLhyphen"/>science to oppose all contrary doctrine, what then will become of subjects li<g ref="char:EOLhyphen"/>berty? The word is not made the rule to regulate this Rulers Conscience, ac<g ref="char:EOLhyphen"/>cording as we say it should; for if that were so his Rule, there were a remedy and way to bring him to the Rule; but his conscience, judgement, and phan<g ref="char:EOLhyphen"/>tasie, touching the Rule that is by this Tenent made his Rule, according to which he must be left freely to act with<g ref="char:EOLhyphen"/>out restraint. The mischiefs necessari<g ref="char:EOLhyphen"/>ly following this, if once cryed up, we leave to such of our opposites sadly and seriously to consider of.</p>
+            <div n="2" type="question">
+               <pb n="48" facs="tcp:66131:26"/>
+               <head>The <hi>Nature</hi> &amp; <hi>Power OF</hi> SYNODS. The Second Question.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>2</label>
+                  <hi>WHat be the grounds from Scrip<g ref="char:EOLhyphen"/>ture to warrant Synods?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> In answer to this Question, we shall propound to consideration three Ar<g ref="char:EOLhyphen"/>guments from Scripture, and five Rea<g ref="char:EOLhyphen"/>sons.</p>
+               <div type="arguments">
+                  <head>Arguments.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Argum: </seg>1</label> Taken from <hi>Acts</hi> 15. An orderly As<g ref="char:EOLhyphen"/>sembly of qualified Church-messengers (Elders and other Brethren) in times of controversie and danger, concern<g ref="char:EOLhyphen"/>ing weighty matters of Religion, for the considering, disputing, finding out and clearing of the truth, from the Scripture, and establishing of Peace a<g ref="char:EOLhyphen"/>mongst the Churches, is founded upon <hi>Acts</hi> 15.</p>
+                  <p>But a Synod is an orderly Assembly of qualified Church-messengers (El<g ref="char:EOLhyphen"/>ders and other Brethren) in times of controversie and danger, concerning
+<pb n="49" facs="tcp:66131:26"/> weighty matters of Religion, for the considering, disputing, finding out, and clearing of the truth, from the Scrip<g ref="char:EOLhyphen"/>tures, and establishing of peace amongst the Churches. <hi>Ergo,</hi> A Synod is foun<g ref="char:EOLhyphen"/>ded upon <hi>Acts</hi> 15.</p>
+                  <p>For the confirming of this Argu<g ref="char:EOLhyphen"/>ment, three distinctions are to be pre<g ref="char:EOLhyphen"/>mised and some Objections to be satis<g ref="char:EOLhyphen"/>fied. The first distinction is for the clear<g ref="char:EOLhyphen"/>ing of the question; the other with the satisfaction to the Objection, for the clearing of the Text.</p>
+                  <p>The necessity of Synods is either <label type="milestone">
+                        <seg type="milestoneunit">Distin: </seg>1</label>
+                     <list>
+                        <item>1 Absolute.</item>
+                        <item>2 Respective.</item>
+                     </list>
+                  </p>
+                  <p>Synods are not necessary Absolute<g ref="char:EOLhyphen"/>ly, <hi>i. e.</hi> unto the being, but respective<g ref="char:EOLhyphen"/>ly, <hi>i. e.</hi> unto the wel-being of Chur<g ref="char:EOLhyphen"/>ches.</p>
+                  <p>In this Synod some things are first <label type="milestone">
+                        <seg type="milestoneunit">Distin: </seg>2</label> Extraordinary, and not Exemplary, some whereof were certainly so, and the rest may seem to be so unto divers. As</p>
+                  <p n="1">1 The Quality of some of the Mem<g ref="char:EOLhyphen"/>bers, <hi>sc.</hi> Apostles, <hi>v.</hi> 6.23.</p>
+                  <p n="2">2 The Stile, <hi>v.</hi> 28.</p>
+                  <p n="3">3 The manner of the Imposition of
+<pb n="50" facs="tcp:66131:27"/> their Sentence, as immediately and po<g ref="char:EOLhyphen"/>litically binding, at least as some Ex<g ref="char:EOLhyphen"/>pound the place.</p>
+                  <p n="4">4 The Object upon whom they im<g ref="char:EOLhyphen"/>posed the keeping of their Decrees, <hi>viz.</hi> absent Churches, <hi>vers.</hi> 23. <hi>chap.</hi> 16.4. some of which were neither called, nor had ordinary Members, or Messengers there.</p>
+                  <p>Others were Ordinary, <hi>ergo</hi> Exem<g ref="char:EOLhyphen"/>plary, as</p>
+                  <p n="1">1 The publick meeting of Church-messengers, Elders, and other Brethren.</p>
+                  <p n="2">2 The propounding of matters to be considered.</p>
+                  <p n="3">3 The disputing of them, <hi>v.</hi> 7.</p>
+                  <p n="4">4 The joynt resolutions of the que<g ref="char:EOLhyphen"/>stions, out of, and according to the Scriptures, <hi>v.</hi> 15, 16.</p>
+                  <p n="5">5 The declaration and delivery thereof unto the Churches, to be ac<g ref="char:EOLhyphen"/>cepted of, and kept by them, <hi>Acts</hi> 16. <hi>v.</hi> 4.</p>
+                  <p n="6">6 Order in all.</p>
+                  <p>The Apostles were Elders and Mem<g ref="char:EOLhyphen"/>bers of every Church, <hi>ergo,</hi> here were assembled Elders and Messengers of all Churches, <hi>ergo,</hi> in some respect it may be called an universall Counsel.</p>
+                  <pb n="51" facs="tcp:66131:27"/>
+                  <p>Hence look upon what was extra<g ref="char:EOLhyphen"/>ordinary, so it may warrant the great<g ref="char:EOLhyphen"/>est Counsel; look upon what was or<g ref="char:EOLhyphen"/>dinary therein, and so it warrants the smallest Counsel.</p>
+                  <p>In this Synod are to be considered <label type="milestone">
+                        <seg type="milestoneunit">Distin: </seg>3</label> the
+<list>
+                        <item>Substantials: Matter and Forme.</item>
+                        <item>Circumstantials: Constantly, such as necessarily accompany every Synod. Occasionally, which ac<g ref="char:EOLhyphen"/>company the Synod <hi>pro hic &amp; nunc (i e.)</hi> according to the cir<g ref="char:EOLhyphen"/>cumstances of this time and this place.</item>
+                     </list>
+                  </p>
+                  <p>That which is commanded as con<g ref="char:EOLhyphen"/>tinually binding, <hi>Acts</hi> 15. is the cir<g ref="char:EOLhyphen"/>cumstantials of a Synod, the constant circumstantials, and such occasionally as are to edification, <hi>pro hic &amp; nunc.</hi> These two last distinctions rightly ap<g ref="char:EOLhyphen"/>plied, may satisfie many lighter Obje<g ref="char:EOLhyphen"/>ctions, which we shall not therefore trouble the Reader with.</p>
+                  <p>If in times of Controversie, about <label type="milestone">
+                        <seg type="milestoneunit">Argum: </seg>2</label> weighty matters of Religion,<note place="margin">Taken by proportion from <hi>Gal.</hi> 2.2.</note> the As<g ref="char:EOLhyphen"/>sembling together of Apostles (who knew the truth before they came on to the Synod, and one of them was great<g ref="char:EOLhyphen"/>er
+<pb n="52" facs="tcp:66131:28"/> than all particular Churches) was needfull for the testifying to the carry<g ref="char:EOLhyphen"/>ing on of the truth (which is lesse than the finding out, testifying to, carrying on of the truth) if warranted out of the Scripture, then the Assembling to<g ref="char:EOLhyphen"/>gether of Churches by themselves, or by Church-messengers (either of w<seg rend="sup">ch</seg> is a Synod) to the finding out, te<g ref="char:EOLhyphen"/>stifying to, and better carrying on of the truth, is warrantable out of the Scriptures.</p>
+                  <p>But in such times of controversie, the Assembling together of Apostles (one of whom was greater than all particular Churches) for the testifying to, and better carrying on of the truth, is warranted out of the Scripture, <hi>Gal.</hi> 2.2.</p>
+                  <p>
+                     <hi>Ergo,</hi> In such times of controversie, the Assembling together of Churches by themselves, or by the Church-mes<g ref="char:EOLhyphen"/>sengers (either of which is a Synod) for the finding out, testifying to, and better carrying on of the truth, is war<g ref="char:EOLhyphen"/>ranted out of the Scripture.</p>
+                  <p>The Argument proceeds from the greater to the lesser, thus; If the truth in times of weighty controversies had
+<pb n="53" facs="tcp:66131:28"/> need of the help of the Assembling to<g ref="char:EOLhyphen"/>gether of Apostles, then in like times it hath much more need of the Assem<g ref="char:EOLhyphen"/>bling together of Churches. If Apostles at such times had need of the help of other Apostles, then Churches in like times had need of the help of other Churches.</p>
+                  <p>Such Assemblies, the examples where<g ref="char:EOLhyphen"/>of are recorded and approved in the Scripture, are warranted out of the Scriptures.</p>
+                  <p>But the orderly Assembly of the qua<g ref="char:EOLhyphen"/>lified <label type="milestone">
+                        <seg type="milestoneunit">Argum: </seg>3</label> people of God, for the consider<g ref="char:EOLhyphen"/>ing of matters of Religion, in times of weighty controversies, are such Assem<g ref="char:EOLhyphen"/>blies, the examples whereof are record<g ref="char:EOLhyphen"/>ed, &amp; commended in the Scriptures, <hi>erg.</hi> The orderly Assembly of qualified per<g ref="char:EOLhyphen"/>sons for the considering of matters of Religion, in times of weighty contro<g ref="char:EOLhyphen"/>versies, is warranted out of the Script:</p>
+                  <p>
+                     <hi>Ezra</hi> 7.14.<note place="margin">Minor proved.</note>
+                     <hi>Ezra</hi> inquires of the Lord <hi>(id est)</hi> consults of the worship of God. 1 <hi>Chron.</hi> 13.2. <hi>David</hi> consults with the Congregation concerning the carrying of the Ark to its place. 2 <hi>Chr.</hi> 30.2. <hi>Hezekiah</hi> had taken Counsel of all his Princes, and all the Congregati<g ref="char:EOLhyphen"/>on
+<pb n="54" facs="tcp:66131:29"/> in <hi>Jerusalem,</hi> to keep the Passeover in the second moneth. The approved examples of the godly, of imitable and usefull nature in practicall cases, is a rule unto us.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reason </seg>1</label> When the cause of a Synod remains, there opportunity being had,<note place="margin">From the Causes.</note> the war<g ref="char:EOLhyphen"/>rantable use of Synods remaines. But under the Gospel the causes of Synods remaine, <hi>ergo.</hi>
+                  </p>
+                  <p>Under the Gospel the use of Synods is warrantable.</p>
+                  <p>The Causes of Synods are either pre<g ref="char:EOLhyphen"/>venting, removing of, or recovering from errors and divisions; or provi<g ref="char:EOLhyphen"/>ding for, preserving of, or restoring of truth and peace in matters of Reli<g ref="char:EOLhyphen"/>gion.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reason </seg>2</label> Where there is use of the Ends of Sy<g ref="char:EOLhyphen"/>nods,<note place="margin">From the End of Sy<g ref="char:EOLhyphen"/>nods.</note> namely to clear and declare the truth from scripture, in times of weigh<g ref="char:EOLhyphen"/>ty controversie, there the use of Synods is warrantable.</p>
+                  <p>But under the Gospel there is use of the end of Synods, namely to clear and declare the truth from Scripture, in times of weighty controversie, <hi>ergo.</hi>
+                  </p>
+                  <p>Under the Gospel the use of Synods is warrantable.</p>
+                  <pb n="55" facs="tcp:66131:29"/>
+                  <p>Preheminency of knowledge, con<g ref="char:EOLhyphen"/>cerning Church matters, is in the Sy<g ref="char:EOLhyphen"/>nod; hence the question is aris'd to the Synod.</p>
+                  <p>Church Authority is onely placed in the Churches; hence the cause re<g ref="char:EOLhyphen"/>maines with the particular Churches.</p>
+                  <p>That which is the greatest externall <label type="milestone">
+                        <seg type="milestoneunit">Reason </seg>3</label> means of the Union of Churches,<note place="margin">From the Commu<g ref="char:EOLhyphen"/>nion of Churches.</note> in one judgement, and consequently an especiall help to preserve communion of particular Churches, is of warrant<g ref="char:EOLhyphen"/>able use.</p>
+                  <p>But a Synod is the greatest externall means to Unite Churches in one judge<g ref="char:EOLhyphen"/>ment, by conferring apprehensions for the concurring in the same Sentence: <hi>ergo,</hi> a Synod is of warrantable use.</p>
+                  <p>That without which particular <label type="milestone">
+                        <seg type="milestoneunit">Reason </seg>4</label> Churches in divers of their Administra<g ref="char:EOLhyphen"/>tions are in danger to run in vaine,<note place="margin">From the Efficacy of Church-Admini<g ref="char:EOLhyphen"/>strations.</note> is of warrantable use:</p>
+                  <p>But without the approbation of o<g ref="char:EOLhyphen"/>ther Churches for the end whereof Sy<g ref="char:EOLhyphen"/>nods are an especiall means, particular Churches are in divers of their Admi<g ref="char:EOLhyphen"/>nistrations in danger to run in vaine, from the example of the Apostles, <hi>Gal.</hi> 2.2.</p>
+                  <pb n="56" facs="tcp:66131:30"/>
+                  <p>
+                     <hi>Ergo,</hi> Synods are of warrantable use.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Reason </seg>5</label> If the weighty Transactions of each particular Church are such (and so concerning particular Neighbouring Churches) as that it is meet that all Neighbouring Churches should be ac<g ref="char:EOLhyphen"/>quainted and consulted with therea<g ref="char:EOLhyphen"/>bout,<note place="margin">From the Nature of Church-matters.</note> and Synods be the fittest means for that end; then Synods be of war<g ref="char:EOLhyphen"/>rantable use:</p>
+                  <p>But the weighty Transactions of all particular Churches are such (and so concerning all particular Neighbour<g ref="char:EOLhyphen"/>ing Churches) as that it is meet that all neighbouring Churches be acquain<g ref="char:EOLhyphen"/>ted and consulted with thereabout; and Synods be the fittest means to that end, <hi>ergo,</hi> Synods are of warrantable use.</p>
+                  <epigraph>
+                     <q>
+                        <p>Quod tangit omnes, spectat ad omnes.</p>
+                        <p>The Cognizance of that belongs to all, whose practice concerns all.</p>
+                     </q>
+                  </epigraph>
+               </div>
+               <div type="objections">
+                  <head>Objections against the urging of that Synod, <hi>Acts 15.</hi> as an example warranting our ordinary SYNODS.</head>
+                  <p>
+                     <hi>Object.</hi> 1. <hi>Paul</hi> and <hi>Barnabas,</hi> and the
+<pb n="57" facs="tcp:66131:30"/> other Brethren sent by the Church of <hi>Antioch,</hi> were sent unto the Elders and Apostles, <hi>vers.</hi> 2. but we doe not read that the Churches were sent unto, which in ordinary Synods order calls for.</p>
+                  <p>
+                     <hi>Resp.</hi> 1. Though it be not in so ma<g ref="char:EOLhyphen"/>ny words expressed that the Churches were sent unto, yet it cannot be deny<g ref="char:EOLhyphen"/>ed but they might be sent unto impli<g ref="char:EOLhyphen"/>citely, though not explicitely.</p>
+                  <p n="2">2 'Tis not to be doubted, but that the Church of <hi>Antioch,</hi> and the Church of <hi>Jerusalem,</hi> walked by the same rule: As therefore <hi>Paul</hi> and <hi>Barnabas</hi> went not to this Assembly without the cog<g ref="char:EOLhyphen"/>nizance of the Church of <hi>Antioch,</hi> so we may well think the Apostles and El<g ref="char:EOLhyphen"/>ders at <hi>Jerusalem</hi> came not to this As<g ref="char:EOLhyphen"/>sembly without the cognizance of the Church of <hi>Jerusalem.</hi>
+                  </p>
+                  <p n="3">3 Considering the extraordinary power of the Apostles: It is a suffici<g ref="char:EOLhyphen"/>ent acknowledgment of the liberty of Churches, that they had orderly and seasonable notice of the Assembly, were present at it, and were joyned together with the Apostles in the conclusions of it; all which are manifest from the
+<pb n="58" facs="tcp:66131:31"/> Text, either in expresse words, or just Consequence from thence, <hi>vers.</hi> 4.22, 23.</p>
+                  <p>
+                     <hi>Object.</hi> 2. Our Synods consisting onely of such Members as are Messen<g ref="char:EOLhyphen"/>gers of Churches, seem not to be ex<g ref="char:EOLhyphen"/>emplified by that, <hi>Acts</hi> 15. because that Assembly was constituted not of Mes<g ref="char:EOLhyphen"/>sengers of the Church of <hi>Antioch,</hi> and the whole Fraternity of the Church of <hi>Jerusalem.</hi>
+                  </p>
+                  <p>
+                     <hi>Resp.</hi> 1. It's not to be doubted but the Apostles and Elders were present, according to the desire of the Church of <hi>Jerusalem,</hi> and so were as Messen<g ref="char:EOLhyphen"/>gers.</p>
+                  <p n="2">2 'Tis all one upon this point, whe<g ref="char:EOLhyphen"/>ther a Church be present by the Fra<g ref="char:EOLhyphen"/>ternity it selfe, or by their Messengers: If conveniency of the place, and trans<g ref="char:EOLhyphen"/>action of affaires will permit, 'tis at the choyce of the Fraternity to be pre<g ref="char:EOLhyphen"/>sent immediately, or to send their Mes<g ref="char:EOLhyphen"/>sengers.</p>
+                  <p n="3">3 What the Fraternity of <hi>Jerusalem</hi> did here, the like may the Fraternity of any Church in like cases doe with us; as the Church of <hi>Cambridge</hi> (for instance) now if they please.</p>
+                  <p n="4">
+                     <pb n="59" facs="tcp:66131:31"/>4 Where the Fraternity is present formally, there the Messengers are pre<g ref="char:EOLhyphen"/>sent virtually.</p>
+                  <p n="5">5 In such cases where the presence of the Fraternity immediately, or send<g ref="char:EOLhyphen"/>ing of Messengers are occasionall cir<g ref="char:EOLhyphen"/>cumstances (of which before) 'tis in the liberty of the Fraternity to doe as they judge most for their Edification.</p>
+                  <p>
+                     <hi>Object.</hi> 3. The judgement of the que<g ref="char:EOLhyphen"/>stion in our Synods or Assemblies, or<g ref="char:EOLhyphen"/>dinarily proceeds joyntly from the Messengers of all Churches; at least the major part of them. But the judgement concerning matters agitated in that Synod, <hi>Acts</hi> 15. seems to proceed from one part thereof onely, namely the Church of <hi>Jerusalem,</hi> as appears by the Letters sent from thence, not mentio<g ref="char:EOLhyphen"/>ning any part of that judgement, as proceeding from the Church Messen<g ref="char:EOLhyphen"/>gers of <hi>Antioch.</hi>
+                  </p>
+                  <p>
+                     <hi>Resp.</hi> 1. We may distinguish between the Synods passing for acts of judge<g ref="char:EOLhyphen"/>ment upon the Question discussed, and the sending of that judgement passed by the Synod. That the Messengers of the Church of <hi>Antioch</hi> did judge joynt<g ref="char:EOLhyphen"/>ly with the Church of <hi>Jerusalem,</hi> con<g ref="char:EOLhyphen"/>cerning
+<pb n="60" facs="tcp:66131:32"/> the matters agitated in that Synod, appears thus: In every regular discharge of the duty of the Church-messengers in a Synod where there is a concurrence of ability, right, and duty, to passe an actuall judgement, as de<g ref="char:EOLhyphen"/>clarative to the truth, there was an a<g ref="char:EOLhyphen"/>ctuall judgement.</p>
+                  <p>But such was the case in this Sy<g ref="char:EOLhyphen"/>nod, <hi>ergo.</hi>
+                  </p>
+                  <p>The Reason why the judgement of the Church of <hi>Jerusalem,</hi> and not of the Messengers of the Church of <hi>Anti<g ref="char:EOLhyphen"/>och,</hi> is onely made mention of in the letter, might be, because the judgement of the Church-Messengers of <hi>Antioch</hi> was already known to the Church; nor had they any doubt of their Messengers concurrence with the Church of <hi>Je<g ref="char:EOLhyphen"/>rusalem</hi> in the present Conclusions; if there were any doubt in that respect, they were personally present to satis<g ref="char:EOLhyphen"/>fie it.</p>
+                  <p n="2">2 Because the contrary minded had already signified their non acquiescence or not resting, either in the judgement of the Church of <hi>Antioch,</hi> or their Mes<g ref="char:EOLhyphen"/>sengers, in the delivery of the Decrees of the Synod unto Churches, there ap<g ref="char:EOLhyphen"/>pears
+<pb n="61" facs="tcp:66131:32"/> not any cause out of the Text, to doubt the delivery of the same, as the joynt judgement of them all, but the contrary.</p>
+                  <p>
+                     <hi>Object.</hi> 4. A party may not be a Judge. <hi>Paul</hi> and <hi>Barnabas</hi> were parties in this businesse, <hi>Acts</hi> 15. <hi>ergo.</hi>
+                  </p>
+                  <p>
+                     <hi>Resp.</hi> 1. <hi>Paul</hi> and <hi>Barnabas</hi> here are not properly parties, in that they act not their owne case, but the case of the truth, &amp; that as sent from the Church.</p>
+                  <p n="2">2 Though they be supposed to be par<g ref="char:EOLhyphen"/>ties, yet it's not universally true, that a party may not be a Judge.</p>
+                  <p>As 1 In case the party offended be a society, or some publick person e<g ref="char:EOLhyphen"/>quivalent.</p>
+                  <p n="2">2 In case the party in such acts of judgement, be freed from error; which was the present condition of the Apo<g ref="char:EOLhyphen"/>stles, guided in their administrations by an infallible spirit.</p>
+                  <p>
+                     <hi>Object.</hi> 5. This Synod, <hi>Acts</hi> 15. so speaketh,<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Septuag. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                        <hi>some call it</hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, vid. Schindl. Lexi.</note> as having power to lay the truth of God (cleared and declared by it) as a burthen upon the Churches, <hi>v.</hi> 28. which our ordinary Synods seem not to have power to doe.</p>
+                  <p>
+                     <hi>Resp.</hi> The notion or tearm <hi>[burthen]</hi>
+                     <pb n="62" facs="tcp:66131:33"/> may be taken politically <hi>(i. e.)</hi> for a truth imposed by virtue of Church power and Authority: this though the Apostles as Apostles might doe, yet if they did so in this place (which we rather conceive not) it was extraor<g ref="char:EOLhyphen"/>dinary, and Consequently not Exem<g ref="char:EOLhyphen"/>plary.</p>
+                  <p>Or the word <hi>Burthen,</hi> may be taken for the charging of the Church to re<g ref="char:EOLhyphen"/>ceive and yield Obedience in the Lord unto the truth, discussed, cleared, and orderly commanded to them: In which sense if we take it here according as it's taken in divers places elswhere, <hi>Pro.</hi> 30.1. &amp; 21.1. <hi>Rev.</hi> 2.24. then the stile or manner of speaking is exemplary.</p>
+               </div>
+            </div>
+            <div n="3" type="question">
+               <pb n="63" facs="tcp:66131:33"/>
+               <head>OF THE POWER <hi>OF</hi> Synods. The Third Question.</head>
+               <p>
+                  <hi>WHat is the Power of a Synod?</hi>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>3</label>
+               </p>
+               <p>The Power of a Synod Is
+<list>
+                     <item>Decisive</item>
+                     <item>Directive, <hi>&amp;</hi>
+                     </item>
+                     <item>Declarative</item>
+                  </list> of the truth, <label type="milestone">
+                     <seg type="milestoneunit">Resp. </seg>
+                  </label> by clearing and evidencing the same out of the word of God; non <hi>coactive,</hi> yet more than <hi>discretive.</hi>
+               </p>
+               <p>For the better understanding here<g ref="char:EOLhyphen"/>of, consider that Ecclesiasticall Pow<g ref="char:EOLhyphen"/>er is</p>
+               <p n="1">1 Decisive, in determining by way of discussion and disputation, what is truth, and so consequently resolving
+<pb n="64" facs="tcp:66131:34"/> the Question in weighty matters of Re<g ref="char:EOLhyphen"/>ligion, <hi>Acts</hi> 15.16, 28. &amp; 16.4. This belongs to the Synod.</p>
+               <p n="2">2 Discretive, in discerning of the truth or falshood that is determined; this belongs to every Believer.</p>
+               <p n="3">3 Coactive or judicial (for we omit to speak in this place of Official judge<g ref="char:EOLhyphen"/>ment) in judging of the truth deter<g ref="char:EOLhyphen"/>mined Authoritatively, so as to im<g ref="char:EOLhyphen"/>pose it with Authority, and to censure the disobedient with Ecclesiastical cen<g ref="char:EOLhyphen"/>sure, 1 <hi>Cor.</hi> 5.12. <hi>Mat.</hi> 18.17. This belongeth to every particular Church.</p>
+               <p>The judgement of a Synod is in some respect superiour, in some respect infe<g ref="char:EOLhyphen"/>riour to the judgement of a particular Church; it is superiour in respect of direction; inferiour in respect of juris<g ref="char:EOLhyphen"/>diction, which it hath none.</p>
+               <p>Quere. <hi>How, and how far doth the sen<g ref="char:EOLhyphen"/>tence of a Synod bind?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> We must distinguish between the Synods declaration of the truth, and the politicall imposition of the truth declared by the Synod.</p>
+               <p>The Synods declaration of the truth binds not <hi>politically,</hi> but <hi>formally</hi> onely,
+<pb n="65" facs="tcp:66131:34"/>
+                  <hi>(i. e.) in foro interiori (i. e.)</hi> it binds the conscience, and that by way of the highest institution that is meerly do<g ref="char:EOLhyphen"/>ctrinall. The politicall Imposition of the truth declared by the Synod, is Ec<g ref="char:EOLhyphen"/>clesiasticall, or Civil: Ecclesiasticall, by particular Churches, and this binds not onely formally, but politically, <hi>in foro exteriori,</hi> i. e. it binds the outward man,<note place="margin">
+                     <hi>Supremi Magistratus approbatio est supremū (ut soquun<g ref="char:EOLhyphen"/>tar) arre<g ref="char:EOLhyphen"/>stum.</hi> Fr. Hom. disp. 18. Th. 4. &amp; disp. 17. Thes. 3.</note> so as the disobedient in matters of of<g ref="char:EOLhyphen"/>fence, is subject unto Church censure, affirmatively, towards their own Mem<g ref="char:EOLhyphen"/>bers; negatively, by non communion, as concerning others, whether Church or Members. Civil, by the Magistrate strengthening the truth thus declared by the Synod, and approved by the Churches, either by his meer Authori<g ref="char:EOLhyphen"/>tative suffrage, assent, and testimony, (if the matter need no more) or by his authoritative Sanction of it by Civill punishment, the nature of the offence so requiring.</p>
+               <p>In this orderly proceeding of the Churches, and Civil Magistrate toge<g ref="char:EOLhyphen"/>ther in their respective politicall im<g ref="char:EOLhyphen"/>position of the truth cleared and de<g ref="char:EOLhyphen"/>clared by the Synod, we are to be un<g ref="char:EOLhyphen"/>derstood
+<pb n="66" facs="tcp:66131:35"/> to speak of such a place where<g ref="char:EOLhyphen"/>in the Christian Magistrates walk toge<g ref="char:EOLhyphen"/>ther orderly, reserving Ecclesiasticall binding power to the particular Chur<g ref="char:EOLhyphen"/>ches, where either there is no Magi<g ref="char:EOLhyphen"/>strate, or the Magistrate is wanting in his duty; as also civil power to the Christian Magistrate, where the Chur<g ref="char:EOLhyphen"/>ches are wanting to their duty.</p>
+            </div>
+            <div n="4" type="question">
+               <head>The Fourth Question.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quest. </seg>4</label>
+                  <hi>To whom belongeth the power of calling a Synod?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Answ. </seg>
+                  </label> For satisfaction to this Question, we shall propound one distinction, and an<g ref="char:EOLhyphen"/>swer three Queries.</p>
+               <p>
+                  <note place="margin">Distin:</note>The power of calling Synods is either
+<list>
+                     <item>Single
+<list>
+                           <item>Authoritative, belonging to the Magistrates.</item>
+                           <item>Ministeriall, belonging to the particular Churches.</item>
+                        </list>
+                     </item>
+                     <item>Mint
+<list>
+                           <item>When both proceed orderly and joyntly in the use of their severall powers.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <div type="arguments">
+                  <pb n="67" facs="tcp:66131:35"/>
+                  <head>Arguments, proving the Au<g ref="char:EOLhyphen"/>thoritative Power of Calling <hi>SYNODS,</hi> to belong to the Magistrate.</head>
+                  <p n="1">1 Because the Magistrate is <hi>Custos u<g ref="char:EOLhyphen"/>trius{que} Tabulae,</hi> i. e. Charged with the custody of both Tables; That he is keeper of the second Table is granted, that he is keeper of the former, is suffi<g ref="char:EOLhyphen"/>ciently proved in the first Question.</p>
+                  <p n="2">2 From the recorded and approved examples of godly Kings in the Scrip<g ref="char:EOLhyphen"/>tures: <hi>David,</hi> 1 Chron. 23.2. <hi>Hezeki<g ref="char:EOLhyphen"/>ah,</hi> 2 Chron. 29.4. <hi>Josiah,</hi> 2 Kin. 23.1, 2.</p>
+                  <p n="3">3 From the nature of such great As<g ref="char:EOLhyphen"/>semblies: Though Synodicall Assem<g ref="char:EOLhyphen"/>bling be spirituall, yet meer assembling of a multitude together (which a Sy<g ref="char:EOLhyphen"/>nodicall Assembly presupposeth) is a Civil act, and therefore cannot in good policy be suffered without the consent of the Magistrate.</p>
+                  <p n="4">4 From the necessary (though not
+<pb n="68" facs="tcp:66131:36"/> essentiall) requisites to the being of a Synod, as place, time, manner of meet<g ref="char:EOLhyphen"/>ing, peace, all which need the consent of the Magistrate in case of violent di<g ref="char:EOLhyphen"/>sturbance: the Churches as such, ha<g ref="char:EOLhyphen"/>ving no civill power to defend them, cannot but want the assistance of the Magistrate, that they may meet and transact the matters of the Synod in safety and quietnesse.</p>
+                  <p n="5">5 From the proportion that the Magistrates Con-coactive or calling power of a Synod, holds with his con<g ref="char:EOLhyphen"/>firmation of the conclusions of the Sy<g ref="char:EOLhyphen"/>nod; the same reason that warrants his confirming power for the better strengthening the observation of the conclusions of the Synod, warrants his calling power for the better being of the Synod.</p>
+               </div>
+               <div type="arguments">
+                  <pb n="69" facs="tcp:66131:36"/>
+                  <head>Arguments proving the Mi<g ref="char:EOLhyphen"/>nisteriall Power of Calling <hi>Sy<g ref="char:EOLhyphen"/>nods</hi> (which may be fitly called <hi>a power of liberty,</hi> because Chur<g ref="char:EOLhyphen"/>ches therein have no Authority one over another) to belong unto the particular Churches.</head>
+                  <p n="1">1 From that famous example, <hi>Acts</hi> 15. where the Synod meets, and sits, without the call of Civil Authority; there being then no Christian Magi<g ref="char:EOLhyphen"/>strate.</p>
+                  <p n="2">2 Because the power of the consti<g ref="char:EOLhyphen"/>tution of Synods, as properly such, firstly resideth with, ariseth from, and lastly returneth to particular Chur<g ref="char:EOLhyphen"/>ches.</p>
+                  <p n="3">3 Because the power of the Magi<g ref="char:EOLhyphen"/>strate tends not to the being, but to the better being of Synods; and ad<g ref="char:EOLhyphen"/>ded thereunto is accumulative, not privative <hi>(i. e.)</hi> it adds strength to it, but takes not any power from it: Hence a Synod may in case be with<g ref="char:EOLhyphen"/>out
+<pb n="70" facs="tcp:66131:37"/> any consent of the Magistrate, but cannot be without some consent, ex<g ref="char:EOLhyphen"/>plicite or implicite, of the Chur<g ref="char:EOLhyphen"/>ches.</p>
+                  <p n="4">4 Because the Lord Jesus hath in<g ref="char:EOLhyphen"/>vested the Churches with sufficient Ec<g ref="char:EOLhyphen"/>clesiasticall power in the best Eccle<g ref="char:EOLhyphen"/>siasticall manner, to attaine their Ec<g ref="char:EOLhyphen"/>clesiasticall end, which yet were not, if they had not power of themselves by joynt content to call a Synod.</p>
+               </div>
+               <div type="queries">
+                  <head>Queries.</head>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Querie </seg>1</label>
+                     <hi>In what case may the Magistrate proceed to call a</hi> Synod <hi>without the consent of the Churches?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> The Magistrate in case the Churches be defective, and not to be prevailed with, for the per<g ref="char:EOLhyphen"/>formance of their duty, (just cause so requiring) may call a Synod, and the Churches ought to yield obedience thereunto.</p>
+                  <pb n="71" facs="tcp:66131:37"/>
+                  <p>But notwithstanding the re<g ref="char:EOLhyphen"/>fusall, he may proceed to call an Assembly, and that for the same end that a Synod meetes for, namely, to consider of, and clear the truth from the Scriptures, in weighty matters of Religion: But such an Assembly called and gathered without the consent of the Churches, is not properly that which is usually understood by a Synod, for though it be in the power of the Magistrate to Call, yet it is not in his power to Constitute a Synod, without at least the implicite consent of the Churches: Because Church-Messengers, who necessarily pre<g ref="char:EOLhyphen"/>suppose an explicite (which or<g ref="char:EOLhyphen"/>der calls for) or implicite con<g ref="char:EOLhyphen"/>sent of the Churches, are essen<g ref="char:EOLhyphen"/>tiall to a Synod.</p>
+                  <p>
+                     <hi>In what case may the Churches <label type="milestone">
+                           <seg type="milestoneunit">Querie </seg>2</label> call a</hi> Synod <hi>without the consent of the Magistrate?</hi>
+                  </p>
+                  <pb n="72" facs="tcp:66131:38"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> In case the Magistrate be de<g ref="char:EOLhyphen"/>fective, and not to be prevailed with for the performance of his duty; just cause, providence, and prudence concurring: The Churches may both Call and Constitute a Synod: The Rea<g ref="char:EOLhyphen"/>son why the Churches can Con<g ref="char:EOLhyphen"/>stitute a Synod without the con<g ref="char:EOLhyphen"/>sent of the Magistrate, although the Magistrate cannot constitute a Synod without the consent of the Churches, is because the es<g ref="char:EOLhyphen"/>sentialls of a Synod, together with such other cause, as is requi<g ref="char:EOLhyphen"/>red to the being (though not so much to the better being) of a Synod, ariseth out of particular Churches: as appears from the following Enumeration of the Causes thereof:</p>
+                  <pb n="73" facs="tcp:66131:38"/>
+                  <p>The
+<list>
+                        <item>Essentiall</item>
+                        <item>Materiall</item>
+                        <item>Formall</item>
+                        <item>Finall</item>
+                     </list> Cause:
+<list>
+                        <item>Remote
+<list>
+                              <item>The Authori<g ref="char:EOLhyphen"/>tative Call of the Magistrate.</item>
+                           </list>
+                        </item>
+                        <item>Next
+<list>
+                              <item>The Ministeri<g ref="char:EOLhyphen"/>all Call of the Churches.</item>
+                              <item>The Members of the Synod <hi>(i. e.)</hi> qualified Church-Messengers.</item>
+                              <item>The meeting together of such Church-Mes<g ref="char:EOLhyphen"/>sengers in the name of Christ.</item>
+                              <item>To consider of, and clear the truth in que<g ref="char:EOLhyphen"/>stion from the word of God.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <pb n="74" facs="tcp:66131:39"/>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Querie </seg>3</label>
+                     <hi>In case the Magistrate and Chur<g ref="char:EOLhyphen"/>ches are both willing to proceed or<g ref="char:EOLhyphen"/>derly in the joynt exercise of their severall Powers, whether it is law<g ref="char:EOLhyphen"/>full for either of them to call a</hi> Synod <hi>without the Consent of the other?</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Answ. </seg>
+                     </label> No; they are to proceed now by way of a mixt Call <hi>(i. e.)</hi> orderly and joyntly in the use of their severall Powers. That which learned <hi>Parker</hi> speakes of the Power of particular Chur<g ref="char:EOLhyphen"/>ches, concerning Calling of SYNODS, holds also in this case concerning the Power of the Magistrate; Their Powers are divers, yet in respect of ex<g ref="char:EOLhyphen"/>ercise they ought not to be di<g ref="char:EOLhyphen"/>vers, nor divided the one from the other, as before.</p>
+                  <p>The Churches desire, the Ma<g ref="char:EOLhyphen"/>gistrate
+<pb n="75" facs="tcp:66131:39"/> Commands; Churches act in a way of liberty, the Ma<g ref="char:EOLhyphen"/>gistrate in a way of Authority. <hi>Moses</hi> and <hi>Aaron</hi> should goe together, and kiss one another in the Mount of GOD.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:66131:40"/>
+            <opener>
+               <salute>Courteous Reader;</salute>
+            </opener>
+            <p>BY reason of the Death of the Reverend Author, and the far distance of his loving Friend (the Publisher of this Booke) some faults may have escaped the Presse, for the which the Printer desireth excuse.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+            <pb facs="tcp:66131:40"/>
+         </div>
+      </back>
+   </text>
+</TEI>
